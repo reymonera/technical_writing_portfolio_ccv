@@ -12,7 +12,7 @@ Welcome to my technical writing portfolio! This repository contains a collection
 
 ## About Me
 
-I am a technical writer with a passion for creating clear, concise, and user-friendly documentation. With a unique background in science and software development, I bring a very particular kind of communication.
+I am a technical writer with a passion for creating clear, concise, and user-friendly documentation. With a unique background in science and software development, I bring a very particular kind of communication, honed through my years in academic writing and Scientific Communication.
 
 ## Projects
 
@@ -39,5 +39,4 @@ I am a technical writer with a passion for creating clear, concise, and user-fri
 If you would like to discuss a potential project or have any questions about my work, feel free to contact me:
 
 - **Email:** castillo.vilcahuaman@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/camila-castillo-vilcahuaman)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **LinkedIn:** [Camila Castillo Vilcahuaman](https://www.linkedin.com/in/camila-castillo-vilcahuaman)
