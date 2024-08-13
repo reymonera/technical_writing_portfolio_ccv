@@ -1,6 +1,6 @@
-# Technical Writing Portfolio
+# Technical Writing Site on GitHub
 
-Welcome to my technical writing portfolio! This repository contains a collection of documentation examples I have worked on, showcasing my skills and experience in technical communication.
+Welcome to my technical writing site on GitHub! This repository contains a collection of documentation examples I have worked on, showcasing my skills and experience in technical communication.
 
 ## Table of Contents
 1. [About Me](#about-me)
@@ -8,15 +8,18 @@ Welcome to my technical writing portfolio! This repository contains a collection
     - [Project 1: API Documentation](#project-1-api-documentation)
     - [Project 2: User Guides](#project-2-user-guides)
     - [Project 3: Release Notes](#project-3-release-notes)
+    - [Project 4: Biology Writings](#project-4-biology-writing)
 3. [Contact Me](#contact-me)
 
 ## About Me
 
-I am a technical writer with a passion for creating clear, concise, and user-friendly documentation. With a unique background in science and software development, I bring a very particular kind of communication, honed through my years in academic writing and Scientific Communication.
+I am an aspiring freelancer technical writer with a passion for creating clear, concise, and user-friendly documentation. With a unique background in science and software development, I bring a very particular kind of communication, honed through my years in academic writing and SciComm.
 
-## Projects
+## Projects in my wiki
 
-### Project 1: API Documentation
+Projects that you will find in the wiki of this repo.
+
+### Project 1: API Documentation - Sample - Phastest.ca
 
 - **Description:** Created comprehensive documentation for the RESTful API of a fictional web application, including endpoint descriptions, request/response examples, authentication methods, and error handling.
 - **Tools Used:** Swagger/OpenAPI, Markdown, Postman
@@ -29,6 +32,12 @@ I am a technical writer with a passion for creating clear, concise, and user-fri
 - **Link:** [User Guides](link-to-repository-or-documentation)
 
 ### Project 3: Release Notes
+
+- **Description:** Authored release notes for software updates, highlighting new features, enhancements, bug fixes, and known issues. Collaborated with development and product teams to gather information and ensure accuracy.
+- **Tools Used:** Markdown, Git
+- **Link:** [Release Notes](link-to-repository-or-documentation)
+
+### Project 4: Biology Writing
 
 - **Description:** Authored release notes for software updates, highlighting new features, enhancements, bug fixes, and known issues. Collaborated with development and product teams to gather information and ensure accuracy.
 - **Tools Used:** Markdown, Git
